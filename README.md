@@ -38,7 +38,7 @@ Me chamo Alex Mendes, tenho 23 anos e sou natural de Maceió-AL. Atualmente, est
     title="Cypressio" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-line.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" 
 />
 <img 
     align="left" 
